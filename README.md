@@ -1,6 +1,5 @@
 # Bocchi-Timer-Extension
-<a data-permalink-href="/hexzzz2008/Bocchi-Timer-Extension/blob/main/bocchi_timer.zip?raw=true">    Bấm vào đây để tải extension (download)
-</a>
+<a href="/hexzzz2008/Bocchi-Timer-Extension/blob/main/bocchi_timer.zip?raw=true">Bấm vào đây để tải extension (download)</a>
 <hr>
 Project được thực hiện theo khóa học tôi đang xem ( nhưng tôi code lại theo chủ đề Bocchi :) )
 <br>
