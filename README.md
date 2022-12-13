@@ -8,7 +8,11 @@ Nó có <b>UPDATE</b> không?<br>
 -> Tôi sẽ update nếu nó bạn thực sự thích và nếu tôi có nhiều kinh nghiệm trong mảng này hơn.<br>
 <b>IDEA:</b>Như lúc đầu tôi đã nói, nó không phải ý tưởng của tôi<br>
 <h1><b>ẢNH DEMO</b></h1><br>
-<img src="https://i.ibb.co/Q6q99nP/Screenshot-3.png" alt="anh_demo">
+<img src="https://i.ibb.co/Q6q99nP/Screenshot-3.png" alt="anh_demo"><br>
+Chức năng:<br>
+- Bấm ngược giờ để tập trung làm việc gì đó
+- Thêm các việc cần làm trong khung giờ đó
+....
 <hr>
 <h1><b>Hướng Dẫn Cài</b></h1><br>
 <a href="https://github.com/hexzzz2008/Bocchi-Timer-Extension/blob/main/github/video/tutorial_install.mp4?raw=true">Tải video hướng dẫn về xem (chất lượng dễ nhìn)</a>
