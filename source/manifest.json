@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Bocchi Timer",
+    "version": "1.0.0",
+    "description": "Đồng hồ của Bocchi",
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "logo.png",
+            "24": "logo.png",
+            "32": "logo.png"
+        },
+        "default_title": "Bocchi Timer",
+        "default_popup": "popup/popup.html"
+    },
+    "options_page": "options/options.html",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "alarms", "notifications"]
+}
