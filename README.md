@@ -11,4 +11,4 @@ Nó có <b>UPDATE</b> không?<br>
 <img src="https://i.ibb.co/Q6q99nP/Screenshot-3.png" alt="anh_demo">
 <hr>
 <h1><b>Hướng Dẫn Cài</b></h1><br>
-<a href="https://github.com/hexzzz2008/Bocchi-Timer-Extension/blob/main/github/video/tutorial_install.mp4?raw=true">Tải video hướng dẫn về xem</a>
+<a href="https://github.com/hexzzz2008/Bocchi-Timer-Extension/blob/main/github/video/tutorial_install.mp4?raw=true">Tải video hướng dẫn về xem (chất lượng dễ nhìn)</a>
