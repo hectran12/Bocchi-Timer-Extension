@@ -1,5 +1,5 @@
 # Bocchi-Timer-Extension
-<a data-permalink-href="../hexzzz2008/Bocchi-Timer-Extension/raw/cd0713a69c6bc20791c073314547826769fe01f6/bocchi_timer.zip" href="/hexzzz2008/Bocchi-Timer-Extension/raw/main/bocchi_timer.zip" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Bấm vào đây để tải extension (download)
+<a data-permalink-href="https://github.com/hexzzz2008/Bocchi-Timer-Extension/raw/cd0713a69c6bc20791c073314547826769fe01f6/bocchi_timer.zip" href="/hexzzz2008/Bocchi-Timer-Extension/raw/main/bocchi_timer.zip" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Bấm vào đây để tải extension (download)
 </a>
 <hr>
 Project được thực hiện theo khóa học tôi đang xem ( nhưng tôi code lại theo chủ đề Bocchi :) )
