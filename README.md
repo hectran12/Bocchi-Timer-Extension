@@ -10,7 +10,7 @@ Nó có <b>UPDATE</b> không?<br>
 <h1><b>ẢNH DEMO</b></h1><br>
 <img src="https://i.ibb.co/Q6q99nP/Screenshot-3.png" alt="anh_demo"><br>
 Chức năng:<br>
-- Bấm ngược giờ để tập trung làm việc gì đó
+- Bấm ngược giờ để tập trung làm việc gì đó<br>
 - Thêm các việc cần làm trong khung giờ đó
 ....
 <hr>
